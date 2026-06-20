@@ -49,14 +49,6 @@ Sou estudante de **Sistemas de Informação** e atuo como **Desenvolvedor Front-
 
 ---
 
-## 🎬 Um pouco da minha vibe como dev 😁
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
-
----
-
-## ✨ Frase que me define
-
-> "Código limpo, mente tranquila e deploy sem medo." 🚀
